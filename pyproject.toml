@@ -1,0 +1,12 @@
+[project]
+name = "maxbridge"
+version = "1.0.0"
+description = "Max to Telegram user API bridge"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aiogram==3.25.0",
+    "dotenv>=0.9.9",
+    "maxapi-python==1.1.20",
+    "requests>=2.32.5",
+]

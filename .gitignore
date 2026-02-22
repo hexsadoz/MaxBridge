@@ -1,0 +1,11 @@
+cache/
+.venv/
+venv/
+env/
+.env
+.uvlock
+.python-version
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
